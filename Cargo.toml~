@@ -1,0 +1,6 @@
+[package]
+name = "kikhi"
+version = "0.1.0"
+authors = ["Ng Cheng Leong <renlore@hotmail.com>"]
+
+[dependencies]
